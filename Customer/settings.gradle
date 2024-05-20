@@ -1,2 +1,0 @@
-rootProject.name = 'CustomerServiceInterface'
-include ':quoting-service', ':item-status-service'
